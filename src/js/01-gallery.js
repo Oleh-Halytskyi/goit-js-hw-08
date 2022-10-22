@@ -3,7 +3,7 @@ import galleryItems from "./gallery-items";
 import SimpleLightbox from "simplelightbox";
 import "simplelightbox/dist/simple-lightbox.min.css";
 // Change code below this line
-// console.log(galleryItems);
+console.log(galleryItems);
 
 const gallery = document.querySelector('.gallery')
 
@@ -22,5 +22,3 @@ function createGalleryItem(galleryItems) {
 gallery.innerHTML = createGalleryItem(galleryItems)
 
 const lightbox = new SimpleLightbox('.gallery a', { captionsData: "alt", captionDelay: 250 });
-
-console.log('What happend');
