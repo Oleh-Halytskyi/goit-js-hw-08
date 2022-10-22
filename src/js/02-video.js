@@ -5,10 +5,13 @@ const iframe = document.querySelector('#vimeo-player');
 
 const player = new Player(iframe);
 
-player.on('play', function() {
-    console.log('played the video!');
-});
+function timeSet (evt) {
+    const time = evt.seconds
+    const data = localStorage.setItem('videoplayer-current-time', time);
+    
+}
+const throttled = throttle(timeSet, 1000)
 
-player.getVideoTitle().then(function (title) {
-    console.log('title:', title);
-});
+player.on('timeupdate', throttled);
+
+player.setCurrentTime(localStorage.getItem('videoplayer-current-time'))
