@@ -65,7 +65,7 @@
 69C:\Projects\js homework\goit-js-hw-08\node_modules\domutils\readme.md133108987469888729 0
 79C:\Projects\js homework\goit-js-hw-08\node_modules\nth-check\lib\esm\index.d.ts133108987472697867 0
 74C:\Projects\js homework\goit-js-hw-08\node_modules\lodash.throttle\LICENSE133109001454844377 0
-48C:\Projects\js homework\goit-js-hw-08\.gitignore133107670300796669 0
+48C:\Projects\js homework\goit-js-hw-08\.gitignore133111091362442692 0
 99C:\Projects\js homework\goit-js-hw-08\node_modules\@parcel\core\src\requests\WriteBundlesRequest.js133108987492313051 0
 73C:\Projects\js homework\goit-js-hw-08\node_modules\@parcel\transformer-js133108987501253321 1
 103C:\Projects\js homework\goit-js-hw-08\node_modules\@babel\helper-validator-identifier\lib\identifier.js133108987454005177 0
@@ -119,7 +119,7 @@
 78C:\Projects\js homework\goit-js-hw-08\node_modules\css-tree\lib\utils\clone.js133108987469418998 0
 79C:\Projects\js homework\goit-js-hw-08\node_modules\simplelightbox\demo\demo.css133108987453605408 0
 101C:\Projects\js homework\goit-js-hw-08\node_modules\caniuse-lite\data\features\intersectionobserver.js133108987499320045 0
-42C:\Projects\js homework\goit-js-hw-08\dist133111083602055896 1
+42C:\Projects\js homework\goit-js-hw-08\dist133111087878443849 1
 65C:\Projects\js homework\goit-js-hw-08\node_modules\yaml\util.d.ts133108987482006012 0
 50C:\Projects\js homework\goit-js-hw-08\node_modules133109001455093595 1
 78C:\Projects\js homework\goit-js-hw-08\node_modules\@parcel\workers\lib\threads133108987476328403 1
@@ -247,7 +247,7 @@
 82C:\Projects\js homework\goit-js-hw-08\node_modules\weak-lru-cache\rollup.config.js133108987458098657 0
 69C:\Projects\js homework\goit-js-hw-08\node_modules\fclone\.travis.yml133108987464098547 0
 78C:\Projects\js homework\goit-js-hw-08\node_modules\source-map\lib\array-set.js133108987458358502 0
-56C:\Projects\js homework\goit-js-hw-08\src\js\02-video.js133111083600266911 0
+56C:\Projects\js homework\goit-js-hw-08\src\js\02-video.js133111087968519467 0
 101C:\Projects\js homework\goit-js-hw-08\node_modules\@swc\helpers\lib\_class_apply_descriptor_update.js133108987468707879 0
 59C:\Projects\js homework\goit-js-hw-08\src\sass\_common.scss133107670571005741 0
 66C:\Projects\js homework\goit-js-hw-08\node_modules\lmdb\index.d.ts133108987490654004 0
@@ -4131,7 +4131,7 @@
 102C:\Projects\js homework\goit-js-hw-08\node_modules\@parcel\transformer-js\parcel-swc.darwin-arm64.node133108987492752800 0
 100C:\Projects\js homework\goit-js-hw-08\node_modules\@parcel\transformer-js\parcel-swc.darwin-x64.node133108987494165427 0
 106C:\Projects\js homework\goit-js-hw-08\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-musl.node133108987498533323 0
-67C:\Projects\js homework\goit-js-hw-08\dist\02-video.a74b541c.js.map133111083602035907 0
+67C:\Projects\js homework\goit-js-hw-08\dist\02-video.a74b541c.js.map133111087878423854 0
 104C:\Projects\js homework\goit-js-hw-08\node_modules\@parcel\transformer-js\parcel-swc.linux-x64-musl.node133108987501243341 0
 104C:\Projects\js homework\goit-js-hw-08\node_modules\@parcel\transformer-js\parcel-swc.win32-x64-msvc.node133108987503094332 0
 101C:\Projects\js homework\goit-js-hw-08\node_modules\@parcel\core\test\fixtures\custom-format-infer-ext133108987492452971 1
@@ -4800,7 +4800,7 @@
 66C:\Projects\js homework\goit-js-hw-08\dist\01-gallery.7d68834f.css133111062062218974 0
 70C:\Projects\js homework\goit-js-hw-08\dist\01-gallery.7d68834f.css.map133111062062218974 0
 58C:\Projects\js homework\goit-js-hw-08\dist\01-gallery.html133111062062208964 0
-63C:\Projects\js homework\goit-js-hw-08\dist\02-video.a74b541c.js133111083602005931 0
+63C:\Projects\js homework\goit-js-hw-08\dist\02-video.a74b541c.js133111087878393872 0
 56C:\Projects\js homework\goit-js-hw-08\dist\02-video.html133111062062208964 0
 70C:\Projects\js homework\goit-js-hw-08\dist\03-feedback.5440b4f4.js.map133111062062318889 0
 68C:\Projects\js homework\goit-js-hw-08\dist\goit-js-hw-08.59712999.js133111062062218974 0
